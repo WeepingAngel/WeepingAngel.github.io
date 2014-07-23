@@ -1,0 +1,29 @@
+#head {
+
+}
+
+#body {
+
+}
+
+#foot {
+
+}
+
+#sidebar {
+
+}
+
+
+#slide {
+	position: absolute;
+    left: -142px;
+    width: 180px;
+    height: 60px;
+    transition: 1s;
+}
+
+.wrapper:hover #slide {
+    transition: 1s;
+    left: 0;
+}
